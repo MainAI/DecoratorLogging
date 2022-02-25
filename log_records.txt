@@ -1,0 +1,3 @@
+2022-02-25 22:43:38,501 - _requests_id - (<__main__.SuperHero object at 0x00000255E928F640>,){'superhero_list': ['Hulk', 'Captain America', 'Thanos']} - {'Hulk': '332', 'Captain America': '149', 'Thanos': '655'}
+2022-02-25 22:43:40,813 - _intelligence_by_name - (<__main__.SuperHero object at 0x00000255E928F640>,){'superhero_list': ['Hulk', 'Captain America', 'Thanos']} - {'Hulk': '88', 'Captain America': '69', 'Thanos': '100'}
+2022-02-25 22:43:40,813 - who_max_intelligence - (<__main__.SuperHero object at 0x00000255E928F640>, ['Hulk', 'Captain America', 'Thanos']){} - None
